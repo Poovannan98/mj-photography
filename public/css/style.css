@@ -310,14 +310,14 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-  color: #fff;
+  background: linear-gradient(to right, #adaebd 0%, #e0e8f1 100%);
+  color: #000000;
 }
 #services .service-desc {
   margin: 10px 10px 20px;
 }
 #services h2 {
-  color: #fff;
+  color: #000000;
 }
 #services .section-title h2::after {
   position: absolute;
@@ -336,16 +336,16 @@ header .intro-text {
   padding: 40px 0;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   border-radius: 50%;
-  color: #fff;
+  color: #000000;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 #services h3 {
   font-weight: 500;
   padding: 5px 0;
-  color: #fff;
+  color: #000000;
 }
 #services p {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(0, 0, 0, 0.75);
 }
 #services .service-desc {
   margin-bottom: 40px;
@@ -359,7 +359,7 @@ header .intro-text {
   padding: 0;
 }
 .portfolio-item .hover-bg {
-  overflow: hidden;
+  overflow:hidden;
   position: relative;
   margin: 0;
 }
@@ -603,4 +603,10 @@ label {
   #about img {
     margin: 50px 0;
   }
+}
+
+.feature-img{
+  width:150px;
+  height:150px;
+  border-radius: 50%;
 }

@@ -150,7 +150,7 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             &copy; 2023 MJ Photography Land Page Template. Design by{" "}
-            <a href="http://www.nothing.com" rel="nofollow">
+            <a href="http://localhost:3000" rel="nofollow">
               Jagadeesan
             </a>
           </p>

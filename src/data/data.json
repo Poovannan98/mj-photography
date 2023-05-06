@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "",
+    "paragraph": ""
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "The important character that shapes a wedding photographer, is a good knowledge of the rituals. Here our experience comes in handy. We have been in the field of photography from the good old black and white days. Then we flourished in the era of color photography. Later evolved well in this new era of digital photography. The vast experience has helped us become excellent wedding photographers in Coimbatore. When people think about Professional Wedding Photography in Coimbatore, certainly Baba Studio comes to their mind. We have been in the same place for more than two decades. This instills a feeling of comfort in the customers mind. And we have a remarkable reputation as a Wedding Portraits Studio in Coimbatore. The quality seal of Baba Studio is famous among our beloved clients.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Integrity",
+      "Stability",
+      "Guarantees",
+      "Quality & Experience"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Affordability",
+      "Unique Artistry",
+      "Professionalism",
+      "Consistency"
     ]
   },
   "Gallery": [
@@ -67,118 +67,121 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "img": "img/services/wedding.jpg",
+      "name": "Wedding",
+      "text": "we  create your traditioal weddings with your memories."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "img": "img/services/engagement.jpg",
+      "name": "Engagement",
+      "text": "Look to the future by letting the recipient or couple know what your well wishes are."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "img": "img/services/baby.jpeg",
+      "name": "Baby Shower",
+      "text": "Sometimes the smallest things take up the most room in your heart"
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "img": "img/services/birthday.jpg",
+      "name": "Birthday",
+      "text": "It is now time to celebrate the things you never thought you could, enjoy the moment for now"
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "img": "img/services/pre.jpg",
+      "name": "pre & post wedding",
+      "text": "You know you're in love when you can't fall asleep because reality is finally better than your dreams"
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "img": "img/services/portrait.jpg",
+      "name": "studio potraits",
+      "text": "If your photos aren’t good enough, then you’re not close enough"
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"I would like to thank Mr.MJ Jaga and Team for capturing the wonderful moments of my life.Dedication and perfection in their works to capture every moment at its best is the key point in them.All the best team :).\"",
+      "name": "Jawahar Rajendiran, INDIA"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Awesome editing and album looked superb. Took the service for engagement in Dec 2021. Initial talks with post production team was not so great experience. Mistakes from both end. But team is really talented. Better than most other well known photography for sure. Highly recommended ! Regards, Vaishnavi.\"",
+      "name": " Rangan R,MALASIYA"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"We were really amazed with your work in everything...the way you handle customer with kindness, satisfying customer needs,the outcome of the photos,the way our album looked everything was exceptional...you have such a gift and we are so thankful u shared it with us on our special day..a special shoutout to admin and candid videographer.\"",
+      "name": "sunitha,CANADA"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"MJ photography just simply rocking 😍  and awesome 👌 way ., more then my expectations they did all album and video also ., budget frdly too ♥️\"",
+      "name": "sabari,INDIA"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Thanks for everyone  making Memorable event and photos Looks too good and thanks lot for the patience on taking photos @mj_ photography.\"",
+      "name": "SriRam,USA"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Fantastic team of photographers, album designers and professional office staff. The young buch of photographers were very dedicated and talented. Timely delivery of beautifully edited albums. We felt worth for the money!.\"",
+      "name": "Pavithra,UK"
     }
   ],
   "Team": [
+    
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Mj Jaga",
+      "job": "Traditional Photographer"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Chandru",
+      "job": "Tradtional viedographer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "kumar",
+      "job": "candid photographer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Pavithra",
+      "job": "Drone piolet"
     }
+   
   ],
   "Contact": {
     "address": "51 Bajanai koil street, rendadi, TamilNadu, India",
-    "phone": "+91 123 456 1234",
-    "email": "info@company.com",
+    "phone": "+91 9843337022",
+    "email": "mjphotography03@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/features/ss.jpg",
+      "title": "Sony Full Frame Camera",
+      "text": "Capture beautiful moments with the best full-frame DSLR-like and compact cameras from Sony, Feature an image sensor the same size as a 35 mm film frame. This increased surface area lets you capture more of the world around you in stunning high-resolution, with enhanced color and detail. Breathe new life into your photos with our full-frame compact cameras."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/features/ssssss.png",
+      "title": "Sony Alpha Cinematic Video Camera",
+      "text": "Sony Full-frame digital cinema camera with internal X-OCN recording and choice of 8K and 6K sensors. The Sony FR7 is a full frame pan, tilt, and zoom camera. Next-generation motion-picture camera system with forward-thinking full-frame sensor, phenomenal colour science and user-friendly operation. Stunning full-frame cinematography, optimised for fast workflow and robotically controllable camera for unique perspectives during recordings."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/features/godox.png",
+      "title": "Godox lighting",
+      "text": "Godox has now become a lighting equipment expert and innovator of gears for photographers, videographers, filmmakers and more. Driven by the mission of offering great lighting and audio solutions, Godox has been always pushing the boundaries of technology, and constantly bringing professional products to the industries. "
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/features/ps.png",
+      "title": "Adobe Photoshop 2023",
+      "text": "Photoshop is an image creation, graphic design and photo editing software developed by Adobe. The software provides many image editing features for pixel-based images, raster graphics and vector graphics. Photoshop is the industry-standard photo editing software, and the go-to application for everything from small retouching changes to mind-bending photo art. Photoshop is where editors crop photos, adjust photo composition, correct lighting, and make any subject imaginable look its absolute best."
     }
+    
   ]
 }

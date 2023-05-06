@@ -1,9 +1,12 @@
 import React from "react";
+// import logo from "../images/mj.png";
+import logoSvg from "../images/mj.svg";
+import "../css/nav.css";
 
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
-      <div className="container">
+      <div className="container">        
         <div className="navbar-header">
           <button
             type="button"
@@ -17,9 +20,11 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            MJ Photography
-          </a>{" "}
+          
+          <a className="navbar-brand" href="#page-top">
+          <img className="img" src={logoSvg} alt="Mj Photography" ></img>
+          
+          </a>
         </div>
 
         <div
