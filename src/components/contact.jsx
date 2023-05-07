@@ -1,35 +1,30 @@
 import { useState } from "react";
-import emailjs from "emailjs-com";
 import React from "react";
+import axios from "axios";
 
-const initialState = {
-  name: "",
-  email: "",
-  message: "",
-};
+
 export const Contact = (props) => {
-  const [{ name, email, message }, setState] = useState(initialState);
+  const [name, setName] = useState('');
+  const [email, setEmail] = useState('');
+  const [message, setMessage] = useState(''); 
 
-  const handleChange = (e) => {
-    const { name, value } = e.target;
-    setState((prevState) => ({ ...prevState, [name]: value }));
-  };
-  const clearState = () => setState({ ...initialState });
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    console.log(name, email, message);
-    emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_USER_ID")
-      .then(
-        (result) => {
-          console.log(result.text);
-          clearState();
-        },
-        (error) => {
-          console.log(error.text);
-        }
-      );
+  const handleSubmit = async(e) => {
+    const newPost ={
+      Name: name,
+      Email: email,
+      Message: message
+    }
+    e.preventDefault();    
+    console.log(newPost);
+    try {
+      await axios.post(`${process.env.REACT_APP_API}/api/new_message`, newPost);
+      alert("Thank you for your valuable Comments!!");
+      setName('');
+      setEmail('');
+      setMessage('');
+    } catch (err) {
+      console.log(err);
+    }
   };
   return (
     <div>
@@ -55,7 +50,8 @@ export const Contact = (props) => {
                         className="form-control"
                         placeholder="Name"
                         required
-                        onChange={handleChange}
+                        value={name}
+                        onChange={event => setName(event.target.value)}
                       />
                       <p className="help-block text-danger"></p>
                     </div>
@@ -69,7 +65,8 @@ export const Contact = (props) => {
                         className="form-control"
                         placeholder="Email"
                         required
-                        onChange={handleChange}
+                        value={email}
+                        onChange={event => setEmail(event.target.value)}
                       />
                       <p className="help-block text-danger"></p>
                     </div>
@@ -83,7 +80,8 @@ export const Contact = (props) => {
                     rows="4"
                     placeholder="Message"
                     required
-                    onChange={handleChange}
+                    value={message}
+                    onChange={event => setMessage(event.target.value)}
                   ></textarea>
                   <p className="help-block text-danger"></p>
                 </div>

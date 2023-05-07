@@ -1,0 +1,15 @@
+.faqs{
+    font-size: 18px;
+    font-weight: 400;
+    word-spacing: 0px;
+    word-wrap: break-word;
+    text-align: justify;
+    display: block;
+    margin: 0 150px 0 150px;
+    padding: 0 150px 0 150px;
+    /* width: 1000px; */
+}
+.h5{
+    font-weight: 700;
+    color: rgb(104, 103, 103);
+}

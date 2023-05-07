@@ -130,7 +130,6 @@
     }
   ],
   "Team": [
-    
     {
       "img": "img/team/01.jpg",
       "name": "Mj Jaga",
@@ -151,7 +150,6 @@
       "name": "Pavithra",
       "job": "Drone piolet"
     }
-   
   ],
   "Contact": {
     "address": "51 Bajanai koil street, rendadi, TamilNadu, India",
@@ -182,6 +180,126 @@
       "title": "Adobe Photoshop 2023",
       "text": "Photoshop is an image creation, graphic design and photo editing software developed by Adobe. The software provides many image editing features for pixel-based images, raster graphics and vector graphics. Photoshop is the industry-standard photo editing software, and the go-to application for everything from small retouching changes to mind-bending photo art. Photoshop is where editors crop photos, adjust photo composition, correct lighting, and make any subject imaginable look its absolute best."
     }
-    
+  ],
+  "Faqs": [
+    {
+      "question": "How much do you Charge?",
+      "answer": "The pricing depends on your requirements. Every wedding is unique, and we can’t put a finger on the exact figure on how much we would be charging for the wedding. But our very basic pricing starts from ₹ 1.70 Lakh* | USD $2388 € 2180. The basic Package includes covering two events in the Candid/Artistic Photography style, and we would also give you a beautiful Photo-book of these events."
+    },
+    {
+      "question": "Is the price Negotiable? Do we get a discount?",
+      "answer": "We believe that we don’t charge a single penny more than what we deserve. We can create and craft custom packages for you, just help us with information on your budget. We do not encourage discount negotiations. This is a project where the client and our team believe in, and we believe in working together with all our will and passion, and the right compensation for a work well done is important for us. Please do not try to compromise us in pricing, which makes both of us time waste. We hope you understand.:)"
+    },
+    {
+      "question": "What does the Basic Package include?",
+      "answer": "Our basic Candid Photography package starts from ₹ 1.70 Lakh* | USD $2388 € 2180 *THE BASIC PACKAGE INCLUDES COVERING TWO EVENTS IN THE CANDID / ARTISTIC PHOTOGRAPHY STYLE, we will also provide you with a beautiful Custom Art Photo-book for the two events."
+    },
+    {
+      "question": "What is the ‘normal’ number of photographs that you would give us?",
+      "answer": "We would definitely give you 200-600 Photographs per event, the number variation might happen depends on how length your wedding rituals is. If it’s a Wedding film, it would definitely run anywhere between 7 and 8~12~15 minutes."
+    },
+    {
+      "question": "What about advance booking payment?",
+      "answer": "Yes, we do. 50% of the payment needs to be made in advance for a booking confirmation. If you have any questions on this, please do contact us."
+    },
+    {
+      "question": "Some Photographers who are willing to take ‘Candid Photography’ for 20K, why do you guys charge 5 times over that price?",
+      "answer": "There are mobile handsets that are available for Rs.3000, and then there is an iPhone. The cost eventually does not matter because you are seeking quality and class here. The output is completely dependent on how much you pay for the experience. Take a look at our pictures, and compare them with anyone else who offers Candid Photography at a lesser cost, you will certainly see that the quality of our output is a lot of notches above. "
+    },
+    {
+      "question": "Why the price of Candid Photography varies for each event?",
+      "answer": "Here the workload it really matters, If its a pre wedding rituals or post wedding rituals we charge less than wedding cost and we want to mention that the work load is not only for the photographer who work there and also the post processing team too get involved, less shorter event ends with the lesser number of photographs means the lesser work load on site and off site."
+    },
+    {
+      "question": "Why your price is on event basis, some photographers charge day basis, can you also do for day basis?",
+      "answer": "Every event is important and every event has its own story that need a dedicated attention on the photography, as we crossed 7 years in the wedding photography business, we very much understand that what will be the event and how long / rituals will be, in every event you start as fresh, we mean that you will change your costume for each events right! like every events getting ready shots and couple shots with unique style, We pay attention of each event and take each event is fresh single project. "
+    },
+    {
+      "question": "How do we hire you guys?",
+      "answer": "Please fill in the enquiry form here to get a Custom Quote. Once we have finalized on the quote, and the requirements, we will go ahead with the booking and the confirmation. "
+    },
+    {
+      "question": "How many months in advance do we book / get in touch with you?",
+      "answer": "It would be awesome if you can let us know 6 months in advance of your wedding. That would give us ample time to decide on the lighting, mood, color, and the direction of your story. We are usually flooded with a lot of bookings, so the sooner the better. In case you just stumbled upon us, you love our work, you want to hire us, but your wedding is just a month away, please feel free to drop in a note. "
+    },
+    {
+      "question": "I am at abroad now but I am based out of India, how do I make the payment with you guys?",
+      "answer": "A good chunk of our clientele includes NRIs, and we prefer that you can arrange for the wire transfer to book us."
+    },
+    {
+      "question": "We would like to see some of your work before we hire you. Where can we find your pictures?",
+      "answer": "Please take a look at our portfolio to understand more about how we work. Our website and our blog Please also make sure to read through our FAQs, and if you have any additional questions, you are welcome to hit us up. Ask Here!"
+    },
+    {
+      "question": "Can we meet in person before going ahead with the booking?",
+      "answer": "We would definitely prefer to meet you in person to understand more about your requirements. You can drop into our office anytime or call us to schedule a visit."
+    },
+    {
+      "question": "You have mentioned timings of the shoot in the quote. Is it possible to work in flexible timings as well?",
+      "answer": "We can most definitely work the timings out, but we can be flexible for ±1 hour at best. If the timings exceed the stipulated timings, you will have to pay extra in accordance with the extra number of hours. Event late start doesn't mean that late ending."
+    },
+    {
+      "question": "What is Candid / Artistic Wedding Photography? Can you explain in Detail?",
+      "answer": "Candid Wedding Photography is true candid moment / artistic. It’s so artistic that we make art feel jealous by just rolling the lenses in our camera. Candid is immediate, momentous, and joyous. We give weight to your moments because your wedding deserves no less. Candid photos, and honestly candid videos, with a streak of artistic passion and full-on sincerity, is what we will be offering you."
+    },
+    {
+      "question": "What is the difference between CANDID and TRADITIONAL Wedding photography?",
+      "sub_question":"CANDID PHOTOGRAPHY",
+      "answer": "The Candid wedding photographer captures a wedding as it is. No one is asked to pose, no one is asked to stand and smile the way it is apt for photography. Moments and events and emotions are captured from the behind, you just wouldn’t know we have clicked you with all your best expressions. The rituals aren’t interrupted; people’s smiles aren’t crafted and perfected. We will just let you be your best self, and we will poke our lens right through your moments without you knowing there is a camera roll behind.  Learn more about CANDID PHOTOGRAPHY",
+      "sub_question1": "TRADITIONAL PHOTOGRAPHY",
+      "answer1": "Traditional wedding photography is the complete opposite of Candid Photography. We try to create an album out of your wedding then and there. We will ask you to pose and smile and weave expressions. A lot of things about your wedding photography are staged. Which is also a good thing because you decide what should be clicked, and shouldn’t be clicked? The order of the wedding is categorically captured, the ‘sequence’ of people gifting you is thoroughly shot, and the photography throughout the event is ‘consistent’. It’s not flashy, it’s very straight forward, and very studio-ish, so you will know what to expect in your wedding album. Learn more about TRADITIONAL PHOTOGRAPHY."
+    },    
+    {
+      "question": "What is Wedding Film? Wedding Cinematography? Wedding Highlights?",
+      "answer": "A wedding we believe is like a movie. The coming together of so many beautiful things into one big happy story that is timeless. Isn’t it important to capture this fairytale, the way it is supposed to be? Enter us in the picture, and we will take off the rest. Wedding moments are a motion from Candid/Artistic Photography. The shots are taken cinematically. The angles are coordinated extensively such that they involve a lot of cinematic filmmaking aspects. To throw some technical jargon in, we use ultra wide-angle shots, telephoto, macro, creative shots, smooth shooting, low light shots and solid editing etc., to give you a Monsoon Wedding Part 2. This is just filmmaking at its best. Only happy endings and too many colors and pretty faces to boot, you will love watching it. :)"
+    },
+    {
+      "question": "Can you talk a little bit about your equipment? Camera make, and specs?",
+      "answer": "We aspire to be the best in the business. And we also want to be true to our passion. And that is also why we believe in using the best camera and lenses that are out there in the market. A beautiful wedding between the lens quality, and the person being captured births some mouth gaping shots. One can frame shots in ‘N’ number of ways, but the photographer’s skill and the quality of the equipment largely contribute to the success of a shot. Every shot is important. Every wedding is like a new lifetime. Our equipment is a class apart, and we are proud to be associated such brands like 'Canon, DJI, GoPro, Manfrotto, Rode, ThinkTank Photo' "
+    },
+    {
+      "question": "How do you choose tracks/songs for the Wedding Films?",
+      "answer": "You are welcome to choose the mood/setting of your Film. But we are very particular that the track and the essence of the songs are in sync with the video/footage. If that is also your prerogative, our collaboration is sure to create some extraordinary magic.:)"
+    },
+    {
+      "question": "Do you guys do Traditional/Conventional Photography & Video Coverage too?",
+      "answer": "Well of course.‘Normal’ aka ‘Traditional’ photographers are part of our team as well. No bling, no montage. Just conventions done with perfection. Hire us:)"
+    },
+    {
+      "question": "I was browsing through the Internet, and I have collected some wedding pictures. I would like to see similar shots photographed in my wedding. Is that possible?",
+      "answer": "We are very willing and open to suggestions. We can’t assure on ‘replicating’ the photograph frame by frame because we believe that every wedding and the mood and the couple are unique, but we can definitely do our best to improvise on such shots. It’s your wedding at the end of the day, and we would love to make it very special for you!"
+    },
+    {
+      "question": "Do you guys shoot for weddings outside of Chennai / Tamil Nadu?",
+      "answer": "Of course, we do! We are super fond of traveling, and we have traveled extensively across the country for Wedding shoots. From Kerala to the other side of Paris - France, United Kingdom, Sri Lanka, Thailand and Singapore, We have been there, shot that! Please note that we expect our clients to take care of the Travel and accommodation expenses."
+    },
+    {
+      "question": "My Wedding is out of India, will you be able to shoot for us?",
+      "answer": "Just tell us the date, and the venue, we will be there. Get married in a hot air balloon, under the water, why even in Mars. Wherever your wedding is, our lens will follow you."
+    },
+    {
+      "question": "Will you use my Wedding Pictures & Videos in your website or for Social Media promotions?",
+      "answer": "We will, and we will also make your wedding popular. :) We work by referrals, and swear by the quality of our work, so it becomes important for us to showcase our talent out there. If you do not want your photographs or Videos displayed anywhere, please let us know. Do also remember that in that case, you will be charged 25% extra from your total Package cost."
+    },
+    {
+      "question": "Do you guys work with other photography Teams? We have a family photographer as well who might want to click the wedding.",
+      "answer": "We do not prefer working with other Photographers. First thing, we get distracted, the stage is messy, and there is a lack of coordination from our experience. Each photographer has his/her own style of shooting and filming, and it would get quite messy trying to work things out with someone who hails from a completely different school of photography. Please don’t make us go through that ordeal. "
+    },
+    {
+      "question": "When can we expect the delivery of the Photographs/Videos?",
+      "answer": "All Processed Pictures would be delivered within 20-45 days from your Wedding.Wedding Film, please allow us 45-60 days."
+    },
+    {
+      "question": "How many Albums / Photo book do you give? Made from? What Material?",
+      "answer": "It depends on the package you were chosen. Our Print Partner is Canvera™ who is Asia's leading Photobook Making Company. Visit our Office for the samples of world-class standard photo-books and feel the album/photo book material touch."
+    },
+    {
+      "question": "How will be the Album / Photo-book design?",
+      "answer": "Neat, Clean, Simple and elegant album layout will be made by our design/layout crew. We never cut your images and place it in some foreign backdrop and some waterfalls etc., we use our pictures as it is what we captured."
+    },
+    {
+      "question": "Can I get RAW footages & Photos of my Wedding?",
+      "answer": "Yes. We will provide you with all the RAW Pictures and footages of your wedding in a Hard Drive. The Hard Drive is not a part of package, we will provide you all the RAWs against your final receipt."
+    }
   ]
 }

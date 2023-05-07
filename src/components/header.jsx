@@ -30,6 +30,7 @@ export const Header = (props) => {
           slideDuration={1}
           // showBullets={true}
           showNavs={true}
+          style={{objectFit: "cover"}}
         />
       </center>
     </header>
