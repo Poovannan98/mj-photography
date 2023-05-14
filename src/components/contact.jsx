@@ -147,9 +147,9 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 MJ Photography Land Page Template. Design by{" "}
-            <a href="http://localhost:3000" rel="nofollow">
-              Jagadeesan
+            &copy; 2023 MJ Photography. Design by{" "}
+            <a href="https://poovannan.netlify.app" rel="nofollow">
+              Poovannan 
             </a>
           </p>
         </div>
